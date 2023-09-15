@@ -1,7 +1,7 @@
 
-# Laravel Microservices Consumer
+# Laravel Microservices Producer
 
-This is a consumer project for the Laravel Microservices system. This project is designed to receive messages from a RabbitMQ exchange and perform specific actions based on the received messages.
+This is a producer project for the Laravel Microservices system. This project is designed to send messages to a RabbitMQ exchange, which can then be consumed by other microservices.
 
 ## Requirements
 
